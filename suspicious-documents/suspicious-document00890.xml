@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00890.txt">
+  <feature name="about" authors="Trollope, Anthony" title="John Bull on the Guadalquivir" lang="en" />
+  <feature name="md5Hash" value="639d12234c7414597fdad065c626fda5" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="566" this_length="687" source_reference="source-document09380.txt" source_language="en" source_offset="3045" source_length="711" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3169" this_length="267" source_reference="source-document09380.txt" source_language="en" source_offset="186" source_length="266" />
+</document>
+

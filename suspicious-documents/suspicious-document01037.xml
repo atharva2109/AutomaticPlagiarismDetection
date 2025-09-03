@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01037.txt">
+  <feature name="about" authors="Whately, Richard" title="Historic Doubts Relative To Napoleon Buonaparte" lang="en" />
+  <feature name="md5Hash" value="0e324fe829c36e3010f93caa2c65b43b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="555" source_reference="source-document04272.txt" source_language="en" source_offset="6467" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="884" this_length="3113" source_reference="source-document04272.txt" source_language="en" source_offset="1420" source_length="2990" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4499" this_length="747" source_reference="source-document04272.txt" source_language="en" source_offset="11753" source_length="739" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5247" this_length="265" source_reference="source-document04272.txt" source_language="en" source_offset="13986" source_length="259" />
+</document>
+

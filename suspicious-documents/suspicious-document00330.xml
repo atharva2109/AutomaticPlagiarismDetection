@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00330.txt">
+  <feature name="about" authors="Woodhouse, Frederick W." title="The Churches of Coventry A Short History of the City &amp; Its Medieval Remains" lang="en" />
+  <feature name="md5Hash" value="17643d61614c079793a920f7adf28183" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1809" this_length="14175" source_reference="source-document04606.txt" source_language="en" source_offset="332581" source_length="20227" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16574" this_length="2074" source_reference="source-document04606.txt" source_language="en" source_offset="104987" source_length="2074" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18923" this_length="985" source_reference="source-document04606.txt" source_language="en" source_offset="135547" source_length="2499" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="19909" this_length="768" source_reference="source-document04606.txt" source_language="en" source_offset="219642" source_length="753" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="21005" this_length="1596" source_reference="source-document04606.txt" source_language="en" source_offset="163380" source_length="1576" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22602" this_length="219" source_reference="source-document04606.txt" source_language="en" source_offset="231060" source_length="229" />
+</document>
+

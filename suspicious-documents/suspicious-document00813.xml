@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00813.txt">
+  <feature name="about" authors="Twain, Mark" title="Roughing It, Part 4." lang="en" />
+  <feature name="md5Hash" value="a82c8e8324b2a404be041fe6c5590e33" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="432" this_length="4374" source_reference="source-document02935.txt" source_language="en" source_offset="106992" source_length="4491" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5765" this_length="2790" source_reference="source-document02935.txt" source_language="en" source_offset="92427" source_length="2819" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9257" this_length="236" source_reference="source-document02935.txt" source_language="en" source_offset="113582" source_length="243" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9639" this_length="507" source_reference="source-document02935.txt" source_language="en" source_offset="182837" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10448" this_length="261" source_reference="source-document02935.txt" source_language="en" source_offset="193637" source_length="259" />
+</document>
+

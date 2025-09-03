@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02065.txt">
+  <feature name="about" authors="Twain, Mark" title="Sketches New and Old, Part 6." lang="en" />
+  <feature name="md5Hash" value="bfef7ae946d0bf6ba78bc64a7792d824" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1186" this_length="249" source_reference="source-document01105.txt" source_language="en" source_offset="298392" source_length="245" />
+</document>
+

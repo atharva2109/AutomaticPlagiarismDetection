@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08471.txt">
+  <feature name="about" authors="Huxley, Thomas Henry" title="The Past Condition of Organic Nature" lang="en" />
+  <feature name="md5Hash" value="2af07460c4b53d0574eb34ff6a7a9184" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1905" this_length="667" source_reference="source-document04390.txt" source_language="en" source_offset="447554" source_length="685" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6275" this_length="3475" source_reference="source-document04390.txt" source_language="en" source_offset="283473" source_length="3503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="22460" this_length="3050" source_reference="source-document04390.txt" source_language="en" source_offset="290103" source_length="2992" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36209" this_length="463" source_reference="source-document04390.txt" source_language="en" source_offset="627208" source_length="469" />
+</document>
+

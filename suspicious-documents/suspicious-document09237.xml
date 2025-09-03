@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09237.txt">
+  <feature name="about" authors="Streeter, Edward" title="&quot;Same old Bill, eh Mable!&quot;" lang="en" />
+  <feature name="md5Hash" value="91be4a6f732edfe411628ad8d16d1552" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="975" this_length="3792" source_reference="source-document09997.txt" source_language="en" source_offset="15024" source_length="3798" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4904" this_length="505" source_reference="source-document09997.txt" source_language="en" source_offset="1455" source_length="511" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5559" this_length="227" source_reference="source-document09997.txt" source_language="en" source_offset="2842" source_length="237" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5986" this_length="505" source_reference="source-document09997.txt" source_language="en" source_offset="21507" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6492" this_length="266" source_reference="source-document09997.txt" source_language="en" source_offset="12961" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6902" this_length="519" source_reference="source-document09997.txt" source_language="en" source_offset="8021" source_length="511" />
+</document>
+

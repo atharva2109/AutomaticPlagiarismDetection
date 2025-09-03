@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09498.txt">
+  <feature name="about" authors="Young, Robert F." title="A Knyght Ther Was" lang="en" />
+  <feature name="md5Hash" value="83be647f7c52263dbb05e41144f6d5f3" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="257" source_reference="source-document01545.txt" source_language="en" source_offset="7714" source_length="260" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="397" this_length="1743" source_reference="source-document01545.txt" source_language="en" source_offset="9303" source_length="1733" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2345" this_length="785" source_reference="source-document01545.txt" source_language="en" source_offset="1006" source_length="730" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3296" this_length="288" source_reference="source-document01545.txt" source_language="en" source_offset="1925" source_length="275" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="3603" this_length="269" source_reference="source-document01545.txt" source_language="en" source_offset="741" source_length="265" />
+</document>
+

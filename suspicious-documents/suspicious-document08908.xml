@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08908.txt">
+  <feature name="about" authors="Wilberforce, Samuel" title="The Rocky Island and Other Similitudes" lang="en" />
+  <feature name="md5Hash" value="955f4e4069a52aee2125bb8965a84501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="227" this_length="2019" source_reference="source-document00098.txt" source_language="en" source_offset="1842" source_length="1999" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2247" this_length="274" source_reference="source-document00127.txt" source_language="en" source_offset="136277" source_length="271" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2771" this_length="3766" source_reference="source-document00127.txt" source_language="en" source_offset="64299" source_length="3848" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="7137" this_length="2671" source_reference="source-document00098.txt" source_language="en" source_offset="3841" source_length="2751" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9896" this_length="1502" source_reference="source-document00098.txt" source_language="en" source_offset="0" source_length="1520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11668" this_length="745" source_reference="source-document00127.txt" source_language="en" source_offset="172707" source_length="781" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="12414" this_length="1629" source_reference="source-document00127.txt" source_language="en" source_offset="26947" source_length="1639" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14044" this_length="251" source_reference="source-document00098.txt" source_language="en" source_offset="1520" source_length="251" />
+</document>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document10168.txt">
+  <feature name="about" authors="White, Andrew Dickson" title="Fiat Money Inflation in France" lang="en" />
+  <feature name="md5Hash" value="721d4d6cd13e51fed744ec2d4db18c8c" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="189" this_length="252" source_reference="source-document08954.txt" source_language="en" source_offset="35637" source_length="250" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1392" this_length="2937" source_reference="source-document08954.txt" source_language="en" source_offset="17855" source_length="3725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13202" this_length="250" source_reference="source-document08954.txt" source_language="en" source_offset="12364" source_length="230" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14138" this_length="243" source_reference="source-document08954.txt" source_language="en" source_offset="27559" source_length="246" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15008" this_length="500" source_reference="source-document08954.txt" source_language="en" source_offset="21640" source_length="466" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16477" this_length="229" source_reference="source-document08954.txt" source_language="en" source_offset="1632" source_length="229" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17780" this_length="522" source_reference="source-document08954.txt" source_language="en" source_offset="36529" source_length="515" />
+</document>
+

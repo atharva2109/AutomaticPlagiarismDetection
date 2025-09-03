@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document06343.txt">
+  <feature name="about" authors="Strachey, John St. Loe" title="The Adventure of Living : a Subjective Autobiography" lang="en" />
+  <feature name="md5Hash" value="9d13bec97d1b1528c41d03bfa5115fbd" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="478" this_length="261" source_reference="source-document05638.txt" source_language="en" source_offset="209" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1868" this_length="244" source_reference="source-document05638.txt" source_language="en" source_offset="34483" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4116" this_length="1409" source_reference="source-document05638.txt" source_language="en" source_offset="65350" source_length="1404" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8194" this_length="236" source_reference="source-document07635.txt" source_language="en" source_offset="564545" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="10252" this_length="488" source_reference="source-document07635.txt" source_language="en" source_offset="378735" source_length="474" />
+</document>
+

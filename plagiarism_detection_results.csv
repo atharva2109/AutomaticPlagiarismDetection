@@ -1,0 +1,61 @@
+Suspicious File,Correct Source Files,Average Precision,Average Recall,Average F1 Score,Average Granularity,Average Plagdet Score
+suspicious-document00152.txt,source-document05228.txt,0.993333333,0.015413262,0.030355506,1,0.030355506
+suspicious-document00607.txt,source-document04134.txt,1,0.161741425,0.278446514,1,0.278446514
+suspicious-document02003.txt,source-document08169.txt,1,0.002110372,0.004211856,1,0.004211856
+suspicious-document02034.txt,,0,0,0,0,0
+suspicious-document02065.txt,,0,0,0,0,0
+suspicious-document04736.txt,source-document08890.txt,1,0.323589955,0.488958009,1,0.488958009
+suspicious-document04868.txt,,0,0,0,0,0
+suspicious-document05002.txt,source-document06931.txt,1,0.222246174,0.36366843,1,0.36366843
+suspicious-document05658.txt,,0,0,0,0,0
+suspicious-document06601.txt,"source-document08044.txt, source-document08351.txt",1,0.011169217,0.022091687,1,0.022091687
+suspicious-document07414.txt,"source-document01769.txt, source-document08039.txt",0.999127019,0.060945737,0.114883686,1,0.114883686
+suspicious-document07830.txt,source-document07866.txt,1,0.150197628,0.261168385,1,0.261168385
+suspicious-document08067.txt,"source-document05512.txt, source-document03552.txt",0.998991935,0.153548187,0.266183186,1,0.266183186
+suspicious-document08504.txt,source-document09588.txt,1,0.025374535,0.049493203,1,0.049493203
+suspicious-document08733.txt,source-document08361.txt,1,0.04186966,0.080374085,1,0.080374085
+suspicious-document08876.txt,source-document11005.txt,0.998857143,0.233066667,0.377945946,1,0.377945946
+suspicious-document09024.txt,source-document02020.txt,0.996240602,0.12161542,0.216768916,1,0.216768916
+suspicious-document09026.txt,source-document05982.txt,0.99898167,0.194816801,0.326049024,1,0.326049024
+suspicious-document10509.txt,source-document05509.txt,1,0.15270936,0.264957265,1,0.264957265
+suspicious-document11049.txt,,0,0,0,0,0
+suspicious-document00330.txt,source-document04606.txt,1,0.093606499,0.17118863,1,0.17118863
+suspicious-document00813.txt,source-document02935.txt,1,0.162708129,0.279877856,1,0.279877856
+suspicious-document00890.txt,source-document09380.txt,1,0.279874214,0.437346437,1,0.437346437
+suspicious-document02083.txt,source-document05820.txt,0.997876858,0.387149918,0.557863501,1,0.557863501
+suspicious-document02533.txt,source-document07675.txt,1,0.052329009,0.099453705,1,0.099453705
+suspicious-document03966.txt,source-document02346.txt,1,0.008898776,0.017640573,1,0.017640573
+suspicious-document04085.txt,source-document01120.txt,1,0.075770387,0.140867211,1,0.140867211
+suspicious-document04330.txt,source-document05326.txt,1,0.294964029,0.455555556,1,0.455555556
+suspicious-document04493.txt,source-document05282.txt,1,0.013546634,0.026731152,1,0.026731152
+suspicious-document05497.txt,source-document11059.txt,0.999384236,0.241123161,0.388509874,1,0.388509874
+suspicious-document05846.txt,"source-document02404.txt, source-document07721.txt",1,0.006922964,0.013750731,1,0.013750731
+suspicious-document06343.txt,source-document07635.txt,1,0.201288855,0.335121489,1,0.335121489
+suspicious-document06881.txt,source-document03729.txt,1,0.120660953,0.215338908,1,0.215338908
+suspicious-document07074.txt,source-document05987.txt,1,0.089996913,0.165132418,1,0.165132418
+suspicious-document07701.txt,,0,0,0,0,0
+suspicious-document08191.txt,source-document02651.txt,1,0.069362745,0.129727252,1,0.129727252
+suspicious-document09126.txt,source-document08943.txt,1,0.079235669,0.146836638,1,0.146836638
+suspicious-document09237.txt,source-document09997.txt,0.955927052,0.432748538,0.595784987,1,0.595784987
+suspicious-document10168.txt,source-document08954.txt,1,0.17737685,0.30130854,1,0.30130854
+suspicious-document11032.txt,source-document07981.txt,1,0.055927531,0.105930623,1,0.105930623
+suspicious-document00660.txt,source-document01652.txt,0.978021978,0.123405435,0.219157843,1,0.219157843
+suspicious-document01037.txt,source-document04272.txt,0.970695971,0.056623932,0.107005855,1,0.107005855
+suspicious-document01505.txt,source-document10187.txt,1,0.087708629,0.161272287,1,0.161272287
+suspicious-document03236.txt,source-document10723.txt,1,0.423226812,0.594742607,1,0.594742607
+suspicious-document04006.txt,source-document05075.txt,1,0.019164375,0.037608016,1,0.037608016
+suspicious-document04924.txt,source-document04209.txt,1,0.062946277,0.118437363,1,0.118437363
+suspicious-document05158.txt,source-document02210.txt,1,0.034382822,0.066479878,1,0.066479878
+suspicious-document05358.txt,"source-document00534.txt, source-document04588.txt",0.998921251,0.045966741,0.087889142,1,0.087889142
+suspicious-document05589.txt,source-document00742.txt,1,0.191001323,0.320740741,1,0.320740741
+suspicious-document06668.txt,source-document09337.txt,1,0.018518519,0.036363636,1,0.036363636
+suspicious-document07350.txt,source-document11044.txt,0.998960499,0.324991545,0.490431232,1,0.490431232
+suspicious-document07542.txt,"source-document07931.txt, source-document01794.txt",0.974358974,0.02066163,0.040465181,2,0.025530687
+suspicious-document08320.txt,source-document05689.txt,1,0.043774553,0.08387741,1,0.08387741
+suspicious-document08471.txt,source-document04390.txt,1,0.20548661,0.340918942,1,0.340918942
+suspicious-document08878.txt,,0,0,0,0,0
+suspicious-document08908.txt,"source-document00098.txt, source-document00127.txt",0.999178982,0.189313215,0.318315569,1,0.318315569
+suspicious-document09068.txt,source-document07192.txt,0.984034833,0.078718217,0.145775102,1,0.145775102
+suspicious-document09498.txt,source-document01545.txt,1,0.2663076,0.420604915,1,0.420604915
+suspicious-document10065.txt,source-document05568.txt,1,0.010888758,0.02154294,1,0.02154294
+suspicious-document10959.txt,source-document05735.txt,0.998003992,0.202020202,0.336021505,1,0.336021505

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document09024.txt">
+  <feature name="about" authors="Spedon, Andrew Learmont" title="The Black-Sealed Letter Or, The Misfortunes of a Canadian Cockney." lang="en" />
+  <feature name="md5Hash" value="437a36acc7b4c7f97e950adfd37ba36b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="162" this_length="265" source_reference="source-document02020.txt" source_language="en" source_offset="2464" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1802" this_length="1409" source_reference="source-document04760.txt" source_language="en" source_offset="227901" source_length="1429" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6521" this_length="252" source_reference="source-document02020.txt" source_language="en" source_offset="2873" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6951" this_length="253" source_reference="source-document02020.txt" source_language="en" source_offset="3604" source_length="258" />
+</document>
+

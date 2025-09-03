@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document02003.txt">
+  <feature name="about" authors="Twain, Mark" title="The 30,000 Dollar Bequest and Other Stories" lang="en" />
+  <feature name="md5Hash" value="d29b5fb27a155600911e5d0d0cdcc296" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="240" this_length="3287" source_reference="source-document10390.txt" source_language="en" source_offset="3848" source_length="3250" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="3528" this_length="4490" source_reference="source-document10390.txt" source_language="en" source_offset="11037" source_length="4541" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="8181" this_length="1478" source_reference="source-document10390.txt" source_language="en" source_offset="9406" source_length="1511" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="9660" this_length="758" source_reference="source-document08169.txt" source_language="en" source_offset="1081" source_length="751" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="10627" this_length="2281" source_reference="source-document08169.txt" source_language="en" source_offset="1832" source_length="2245" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="12909" this_length="3138" source_reference="source-document10390.txt" source_language="en" source_offset="16445" source_length="4195" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="16341" this_length="2984" source_reference="source-document10390.txt" source_language="en" source_offset="774" source_length="3074" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="19658" this_length="538" source_reference="source-document08169.txt" source_language="en" source_offset="620" source_length="461" />
+</document>
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08504.txt">
+  <feature name="about" authors="Jerrold, Walter" title="Hampton Court" lang="en" />
+  <feature name="md5Hash" value="72ca54bf353a838f4ab7d49f7067e12e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16012" this_length="20926" source_reference="source-document09285.txt" source_language="en" source_offset="4053" source_length="20254" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="64706" this_length="3685" source_reference="source-document09588.txt" source_language="en" source_offset="18254" source_length="3689" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="69616" this_length="767" source_reference="source-document02970.txt" source_language="en" source_offset="5146" source_length="769" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="70745" this_length="517" source_reference="source-document09588.txt" source_language="en" source_offset="25657" source_length="540" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="76068" this_length="2874" source_reference="source-document09588.txt" source_language="en" source_offset="1388" source_length="3021" />
+</document>
+

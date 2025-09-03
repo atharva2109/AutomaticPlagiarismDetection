@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04006.txt">
+  <feature name="about" authors="Eliot, George" title="Brother Jacob" lang="en" />
+  <feature name="md5Hash" value="c4f0088eb402ab8e91b5f125d9c7d56e" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="14595" source_reference="source-document05075.txt" source_language="en" source_offset="316583" source_length="15064" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16540" this_length="17695" source_reference="source-document05075.txt" source_language="en" source_offset="202837" source_length="17807" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36780" this_length="23406" source_reference="source-document05075.txt" source_language="en" source_offset="259513" source_length="24501" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="62932" this_length="15416" source_reference="source-document05075.txt" source_language="en" source_offset="23921" source_length="15493" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="79251" this_length="1672" source_reference="source-document05075.txt" source_language="en" source_offset="11654" source_length="1592" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="81316" this_length="1683" source_reference="source-document05075.txt" source_language="en" source_offset="15848" source_length="1684" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="83279" this_length="2946" source_reference="source-document05075.txt" source_language="en" source_offset="242156" source_length="2909" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="86571" this_length="3475" source_reference="source-document05075.txt" source_language="en" source_offset="77374" source_length="3509" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="90252" this_length="1661" source_reference="source-document05075.txt" source_language="en" source_offset="137641" source_length="1677" />
+</document>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08733.txt">
+  <feature name="about" authors="Sue, Eugène" title="The Brass Bell or, The Chariot of Death" lang="en" />
+  <feature name="md5Hash" value="1e50e156a3416d6ee9e9b9254e0257ec" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1798" source_reference="source-document08361.txt" source_language="en" source_offset="23980" source_length="1800" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="2429" this_length="1437" source_reference="source-document08361.txt" source_language="en" source_offset="159698" source_length="1435" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4175" this_length="467" source_reference="source-document08361.txt" source_language="en" source_offset="235039" source_length="462" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5489" this_length="3509" source_reference="source-document08361.txt" source_language="en" source_offset="54394" source_length="3538" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9550" this_length="3720" source_reference="source-document08361.txt" source_language="en" source_offset="249792" source_length="3718" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14402" this_length="2480" source_reference="source-document08361.txt" source_language="en" source_offset="68082" source_length="2486" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16883" this_length="248" source_reference="source-document08361.txt" source_language="en" source_offset="74223" source_length="255" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17314" this_length="504" source_reference="source-document08361.txt" source_language="en" source_offset="100027" source_length="501" />
+</document>
+

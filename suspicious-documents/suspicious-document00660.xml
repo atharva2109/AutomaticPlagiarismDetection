@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00660.txt">
+  <feature name="about" authors="Scott, Walter, Sir" title="Old Mortality, Volume 2." lang="en" />
+  <feature name="md5Hash" value="1a62440172d0336a1094bad3c7d4ce85" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="822" this_length="2719" source_reference="source-document01652.txt" source_language="en" source_offset="26072" source_length="2727" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5045" this_length="3298" source_reference="source-document01652.txt" source_language="en" source_offset="170093" source_length="3313" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8771" this_length="481" source_reference="source-document08929.txt" source_language="en" source_offset="6370" source_length="474" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9501" this_length="250" source_reference="source-document08929.txt" source_language="en" source_offset="6991" source_length="257" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9896" this_length="464" source_reference="source-document01652.txt" source_language="en" source_offset="241576" source_length="476" />
+</document>
+

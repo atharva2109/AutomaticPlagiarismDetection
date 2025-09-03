@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document03966.txt">
+  <feature name="about" authors="Roe, Edward Payson" title="The Earth Trembled" lang="en" />
+  <feature name="md5Hash" value="0787be3d3eb7a47f277e409f015dae26" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="3398" source_reference="source-document02346.txt" source_language="en" source_offset="12631" source_length="3369" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6057" this_length="4812" source_reference="source-document02346.txt" source_language="en" source_offset="499" source_length="4932" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11435" this_length="1973" source_reference="source-document02346.txt" source_language="en" source_offset="25265" source_length="2040" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13739" this_length="519" source_reference="source-document02346.txt" source_language="en" source_offset="28668" source_length="520" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14259" this_length="244" source_reference="source-document02346.txt" source_language="en" source_offset="12203" source_length="238" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14612" this_length="242" source_reference="source-document02346.txt" source_language="en" source_offset="8791" source_length="252" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="15067" this_length="499" source_reference="source-document02346.txt" source_language="en" source_offset="16000" source_length="516" />
+</document>
+

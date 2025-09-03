@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document04868.txt">
+  <feature name="about" authors="Ebers, Georg" title="A Thorny Path — Volume 12" lang="en" />
+  <feature name="md5Hash" value="ed34454bf1130b3c566761484bd6cb7b" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="27916" this_length="4554" source_reference="source-document02497.txt" source_language="en" source_offset="208933" source_length="4545" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="53307" this_length="4650" source_reference="source-document02497.txt" source_language="en" source_offset="468767" source_length="4515" />
+</document>
+

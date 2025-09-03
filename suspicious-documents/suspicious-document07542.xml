@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07542.txt">
+  <feature name="about" authors="Boyd, Mary Stuart" title="A Versailles Christmas-Tide" lang="en" />
+  <feature name="md5Hash" value="314e2b7a388ea35774df0b7b06521f41" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17143" this_length="14032" source_reference="source-document01794.txt" source_language="en" source_offset="9586" source_length="17465" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="58656" this_length="12723" source_reference="source-document07931.txt" source_language="en" source_offset="404355" source_length="14922" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="88745" this_length="484" source_reference="source-document01794.txt" source_language="en" source_offset="3273" source_length="479" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="95020" this_length="3042" source_reference="source-document01794.txt" source_language="en" source_offset="96" source_length="2916" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="98766" this_length="254" source_reference="source-document07931.txt" source_language="en" source_offset="456802" source_length="245" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="101213" this_length="1853" source_reference="source-document01794.txt" source_language="en" source_offset="7732" source_length="1725" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="105008" this_length="2074" source_reference="source-document07931.txt" source_language="en" source_offset="206288" source_length="2059" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="109856" this_length="482" source_reference="source-document01794.txt" source_language="en" source_offset="7244" source_length="488" />
+</document>
+

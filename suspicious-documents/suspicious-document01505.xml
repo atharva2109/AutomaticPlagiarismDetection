@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document01505.txt">
+  <feature name="about" authors="Trollope, Anthony" title="John Bull on the Guadalquivir" lang="en" />
+  <feature name="md5Hash" value="7eac7256b2a30226ea48373367615b05" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="329" this_length="4259" source_reference="source-document10187.txt" source_language="en" source_offset="1194" source_length="4127" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5756" this_length="1732" source_reference="source-document10187.txt" source_language="en" source_offset="18517" source_length="1783" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="8615" this_length="4495" source_reference="source-document10187.txt" source_language="en" source_offset="11597" source_length="4531" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13863" this_length="2304" source_reference="source-document10187.txt" source_language="en" source_offset="20680" source_length="2329" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16267" this_length="717" source_reference="source-document10187.txt" source_language="en" source_offset="9877" source_length="714" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17245" this_length="790" source_reference="source-document10187.txt" source_language="en" source_offset="6157" source_length="799" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18036" this_length="245" source_reference="source-document10187.txt" source_language="en" source_offset="8487" source_length="248" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="18491" this_length="257" source_reference="source-document10187.txt" source_language="en" source_offset="18167" source_length="234" />
+</document>
+

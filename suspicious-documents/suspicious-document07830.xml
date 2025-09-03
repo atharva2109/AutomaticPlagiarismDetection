@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07830.txt">
+  <feature name="about" authors="Velasquez, Pedro" title="Memoir of an Eventful Expedition in Central America Resulting in the Discovery of the Idolatrous City of Iximaya, in an Unexplored Region; and the Possession of two Remarkable Aztec Children, Descendants and Specimens of the Sacerdotal Caste, (now nearly extinct,) of the Ancient Aztec Founders of the Ruined Temples of that Country, Described by John L. Stevens, Esq., and Other Travellers." lang="en" />
+  <feature name="md5Hash" value="bfcbdf1b366f44e425eea3ab00566fda" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="186" this_length="569" source_reference="source-document07866.txt" source_language="en" source_offset="72550" source_length="525" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="921" this_length="514" source_reference="source-document07866.txt" source_language="en" source_offset="20928" source_length="513" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="1749" this_length="532" source_reference="source-document07866.txt" source_language="en" source_offset="170774" source_length="530" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="2912" this_length="1669" source_reference="source-document07866.txt" source_language="en" source_offset="36026" source_length="1572" />
+  <feature name="plagiarism" type="artificial" obfuscation="high" this_language="en" this_offset="5265" this_length="258" source_reference="source-document07866.txt" source_language="en" source_offset="153380" source_length="260" />
+</document>
+

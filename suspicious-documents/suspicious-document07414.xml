@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document07414.txt">
+  <feature name="about" authors="Hawthorne, Nathaniel" title="The Seven Vagabonds (From &quot;Twice Told Tales&quot;)" lang="en" />
+  <feature name="md5Hash" value="755880f83eacc2a6d4b86e7fdc8d8e77" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1" this_length="1463" source_reference="source-document01769.txt" source_language="en" source_offset="14013" source_length="1411" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1465" this_length="5112" source_reference="source-document01769.txt" source_language="en" source_offset="19979" source_length="5092" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6895" this_length="25468" source_reference="source-document08039.txt" source_language="en" source_offset="11377" source_length="24424" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="32364" this_length="2761" source_reference="source-document01769.txt" source_language="en" source_offset="3277" source_length="2768" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35126" this_length="248" source_reference="source-document01769.txt" source_language="en" source_offset="1301" source_length="247" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="35375" this_length="816" source_reference="source-document08039.txt" source_language="en" source_offset="530" source_length="821" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36192" this_length="519" source_reference="source-document08039.txt" source_language="en" source_offset="54198" source_length="503" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="36712" this_length="651" source_reference="source-document01769.txt" source_language="en" source_offset="9094" source_length="675" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37364" this_length="264" source_reference="source-document08039.txt" source_language="en" source_offset="46230" source_length="266" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="37629" this_length="256" source_reference="source-document01769.txt" source_language="en" source_offset="10156" source_length="254" />
+</document>
+

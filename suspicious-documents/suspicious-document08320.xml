@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document08320.txt">
+  <feature name="about" authors="Steward, Austin" title="Twenty-Two Years a Slave, and Forty Years a Freeman Embracing a Correspondence of Several Years, While President of Wilberforce Colony, London, Canada West" lang="en" />
+  <feature name="md5Hash" value="9ff1ab53df3d34c141b406b959182317" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="110" this_length="3293" source_reference="source-document05689.txt" source_language="en" source_offset="197056" source_length="3327" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="4204" this_length="495" source_reference="source-document05689.txt" source_language="en" source_offset="993525" source_length="512" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="5748" this_length="4987" source_reference="source-document05689.txt" source_language="en" source_offset="680392" source_length="4993" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="11185" this_length="1722" source_reference="source-document05689.txt" source_language="en" source_offset="399756" source_length="1722" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13115" this_length="486" source_reference="source-document05689.txt" source_language="en" source_offset="248813" source_length="481" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13703" this_length="764" source_reference="source-document05689.txt" source_language="en" source_offset="341097" source_length="759" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14468" this_length="502" source_reference="source-document05689.txt" source_language="en" source_offset="821965" source_length="498" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="14971" this_length="224" source_reference="source-document05689.txt" source_language="en" source_offset="227914" source_length="230" />
+</document>
+

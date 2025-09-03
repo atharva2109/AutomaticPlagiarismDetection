@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document05846.txt">
+  <feature name="about" authors="Scott, Robert Forsyth" title="St. John's College, Cambridge" lang="en" />
+  <feature name="md5Hash" value="67caccc41dfad6edffc38f05a03d0ea9" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="215" this_length="526" source_reference="source-document02404.txt" source_language="en" source_offset="31837" source_length="527" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="1488" this_length="3657" source_reference="source-document02404.txt" source_language="en" source_offset="11559" source_length="3785" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="6286" this_length="2221" source_reference="source-document02404.txt" source_language="en" source_offset="35669" source_length="2170" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="9183" this_length="3450" source_reference="source-document02404.txt" source_language="en" source_offset="25063" source_length="3476" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13201" this_length="258" source_reference="source-document07096.txt" source_language="en" source_offset="230883" source_length="259" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="13944" this_length="1991" source_reference="source-document07096.txt" source_language="en" source_offset="3880" source_length="1972" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16305" this_length="241" source_reference="source-document07096.txt" source_language="en" source_offset="205392" source_length="241" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="16547" this_length="740" source_reference="source-document07096.txt" source_language="en" source_offset="219827" source_length="742" />
+  <feature name="plagiarism" type="artificial" obfuscation="low" this_language="en" this_offset="17603" this_length="494" source_reference="source-document02404.txt" source_language="en" source_offset="17842" source_length="506" />
+</document>
+
